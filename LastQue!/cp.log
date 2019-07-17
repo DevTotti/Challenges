@@ -1,0 +1,10 @@
+INFO: Platform: linux2
+INFO: Version Info: v0.3.0
+DEBUG: Log Path: cp.log
+DEBUG: command: ['python', '/home/gitvee/workspace/codes/done!/connect7.py']
+DEBUG: args: ['/home/gitvee/workspace/codes/done!/connect7.py']
+DEBUG: repl: python
+DEBUG: pause: True
+DEBUG: file: None
+INFO: return code: 0 (0x0)
+INFO: elapsed time: 14.780095
